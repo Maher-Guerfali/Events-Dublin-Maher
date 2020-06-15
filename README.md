@@ -16,8 +16,8 @@ Front-Back Dashboard
 { 
 
 Folder name : fronts-backs; 
-main components : App.js , Admin.js App.css event.service.js , add-event.component.js ; frameworks : React , NodeJs , Docker , MySQL , Bootstrap , React-dom ;
-
+main components : App.js , Admin.js App.css event.service.js , add-event.component.js ;
+frameworks : React , NodeJs , Docker , MySQL , Bootstrap , React-dom ;
 how to run : npm install (vscode) , npm start ;
 
 } 
@@ -26,9 +26,8 @@ Front
 { 
 
 Folder name : fronts; 
-main components : index.php insert.php /view /core ; 
+main components : index.php insert.php /view /core ;
 frameworks : PHP , JQuery , Bootstrap , moments.js ;
-
 how to run : use Xampp apache http://localhost/calendar/ ;
 
 }
